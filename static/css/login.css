@@ -1,0 +1,16 @@
+.normal{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2%;
+    margin-bottom: auto;
+    width: 50%;
+    height: 80%;
+    padding: 3rem;
+    background-color: aliceblue;
+    visibility: visible;
+    z-index: 0;
+}
+.normal:hover{
+    background-color: #f2f2f2;
+}

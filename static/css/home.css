@@ -1,0 +1,11 @@
+.title {
+  text-align: center;
+  font-size: 50px;
+  line-height: 200px;
+  height: 200px;
+  font-family: "Open Sans", sans-serif;
+}
+
+body{
+    background-color:	#93CAED;
+}
